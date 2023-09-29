@@ -1,6 +1,6 @@
 #include<iostream>
 #include<vector>
-#include<functional>
+
 using namespace std;
 template<class T,class M>
 void sort_m(T first,T last,M l){
